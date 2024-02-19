@@ -1,0 +1,10 @@
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAayAdiniBulmaOyunu\WFAayAdiniBulmaOyunu\obj\Debug\WFAayAdiniBulmaOyunu.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAayAdiniBulmaOyunu\WFAayAdiniBulmaOyunu\obj\Debug\WFAayAdiniBulmaOyunu.Form1.resources
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAayAdiniBulmaOyunu\WFAayAdiniBulmaOyunu\obj\Debug\WFAayAdiniBulmaOyunu.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAayAdiniBulmaOyunu\WFAayAdiniBulmaOyunu\obj\Debug\WFAayAdiniBulmaOyunu.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAayAdiniBulmaOyunu\WFAayAdiniBulmaOyunu\obj\Debug\WFAayAdiniBulmaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAayAdiniBulmaOyunu\WFAayAdiniBulmaOyunu\bin\Debug\WFAayAdiniBulmaOyunu.exe.config
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAayAdiniBulmaOyunu\WFAayAdiniBulmaOyunu\bin\Debug\WFAayAdiniBulmaOyunu.exe
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAayAdiniBulmaOyunu\WFAayAdiniBulmaOyunu\bin\Debug\WFAayAdiniBulmaOyunu.pdb
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAayAdiniBulmaOyunu\WFAayAdiniBulmaOyunu\obj\Debug\WFAayAdiniBulmaOyunu.exe
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAayAdiniBulmaOyunu\WFAayAdiniBulmaOyunu\obj\Debug\WFAayAdiniBulmaOyunu.pdb
